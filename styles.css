@@ -1,18 +1,9 @@
 .holder{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
+    
+    background-color: limegreen;
+    text-align: center; 
+
 }
-
-
-
-.item{
-
-
- width: 200px;
- height: 200px;
- background-color: limegreen;
- text-align: center;
- line-height: 200px;
-}
-/* Your CSS Code here. */
